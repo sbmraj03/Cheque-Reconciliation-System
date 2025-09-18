@@ -72,11 +72,11 @@ A proof-of-concept application demonstrating automated cheque processing and inv
 ## 📝 Sample Test Data
 
 The POC includes sample invoices for testing:
-- INV-001: John Smith - ₹12,450.00
-- INV-002: Sarah Johnson - ₹22,866.50
-- INV-003: Mike Wilson - ₹7,469.17
-- INV-004: Emily Davis - ₹26,622.25
-- INV-005: Robert Brown - ₹12,968.75
+- INV-001: Rahul Sharma - ₹12,450.00
+- INV-002: Priya Singh - ₹22,866.50
+- INV-003: Amit Patel - ₹7,469.17
+- INV-004: Neha Verma - ₹26,622.25
+- INV-005: Rohan Gupta - ₹12,968.75
 
 Upload any image containing these amounts to see automatic matching in action.
 
