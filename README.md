@@ -38,8 +38,8 @@ A proof-of-concept application demonstrating automated cheque processing and inv
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd cheque-reconciliation-app
+   git clone https://github.com/sbmraj03/Cheque-Reconciliation-System.git
+   cd Cheque-Reconciliation-System
    ```
 
 2. **Install dependencies**
